@@ -56,6 +56,7 @@ API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Dogs | Based on the Stanford Dogs Dataset | No | Yes | [Go!](https://dog.ceo/dog-api/) |
 | IUCN | IUCN Red List of Threatened Species | `apiKey` | No | [Go!](http://apiv3.iucnredlist.org/api/v3/docs) |
+| Movebank | Animal Migration and movement data | No | Yes | [Go!](https://www.movebank.org/node/54) |
 | Petfinder | Adoption | `apiKey` | Yes | [Go!](https://www.petfinder.com/developers/api-docs/) |
 | RescueGroups | Adoption | No | Yes | [Go!](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home) |
 
@@ -220,7 +221,7 @@ API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Whitepages Pro | Global identity verification with phone, address, email, and IP | `apiKey` | Yes | [Go!](https://pro.whitepages.com/developer/documentation/identity-check-api/) |
 | Whitepages Pro | Phone reputation to detect spammy phones | `apiKey` | Yes | [Go!](https://pro.whitepages.com/developer/documentation/phone-reputation-api/) |
-| Whitepages Pro | Get an owner’s name, address, demographics based on the phone number | `apiKey` | Yes | [Go!](https://pro.whitepages.com/developer/documentation/reverse-phone-api/) |
+| Whitepages Pro | Get an owner?s name, address, demographics based on the phone number | `apiKey` | Yes | [Go!](https://pro.whitepages.com/developer/documentation/reverse-phone-api/) |
 | Whitepages Pro | Phone number validation, line_type, carrier append | `apiKey` | Yes | [Go!](https://pro.whitepages.com/developer/documentation/phone-intelligence-api/) |
 | Whitepages Pro | Get normalized physical address, residents, address type, and validity | `apiKey` | Yes | [Go!](https://pro.whitepages.com/developer/documentation/reverse-address-api/) |
 
@@ -244,7 +245,7 @@ API | Description | Auth | HTTPS | Link |
 | Marvel | Marvel Comics | `apiKey` | No | [Go!](http://developer.marvel.com) |
 | Open Trivia | Trivia Questions | No | Yes | [Go!](https://opentdb.com/api_config.php) |
 | PandaScore | E-sports games and results | `apiKey` | Yes | [Go!](https://api.pandascore.co) |
-| Pokéapi | Pokémon Information | No | No | [Go!](http://pokeapi.co) |
+| Pok?api | Pok?mon Information | No | No | [Go!](http://pokeapi.co) |
 | Qriusity | Quiz/Trivia Questions | No | Yes | [Go!](https://qriusity.com/) |
 | Riot Games | League of Legends Game Information | `apiKey` | Yes | [Go!](https://developer.riotgames.com/) |
 | Steam | Steam Client Interaction | `OAuth` | Yes | [Go!](https://developer.valvesoftware.com/wiki/Steam_Web_API) |
@@ -547,7 +548,7 @@ API | Description | Auth | HTTPS | Link |
 ### Vehicle
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
-| Brazilian Vehicles and Prices | Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe | No | Yes | [Go!](https://deividfortuna.github.io/fipe/) |
+| Brazilian Vehicles and Prices | Vehicles information from Funda??o Instituto de Pesquisas Econ?micas - Fipe | No | Yes | [Go!](https://deividfortuna.github.io/fipe/) |
 | Edmunds | Lot of vehicles information | `apiKey` | No | [Go!](http://developer.edmunds.com/api-documentation/overview/) |
 | NHTSA | NHTSA Product Information Catalog and Vehicle Listing | No | Yes | [Go!](https://vpic.nhtsa.dot.gov/api/) |
 
